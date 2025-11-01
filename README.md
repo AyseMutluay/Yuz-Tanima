@@ -2,8 +2,6 @@
 
 Bu proje, C#, Visual Studio (Windows Forms) ve **Emgu.CV** (OpenCV kütüphanesinin .NET sarmalayıcısı) kullanılarak geliştirilmiş temel bir gerçek zamanlı yüz tanıma uygulamasıdır. Uygulama, bir web kamerasından canlı video akışı alabilir, görüntüdeki insan yüzlerini tespit edebilir, yeni yüzleri bir isimle veritabanına kaydedebilir ve daha önceden kaydettiği yüzleri tanıyarak ekranda ismini gösterebilir.
 
-## 🚀 Demo
-
 
 ## ✨ Özellikler
 
